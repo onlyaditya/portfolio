@@ -55,6 +55,22 @@ module.exports = {
       name: 'HTML',
       img: 'https://image.flaticon.com/icons/png/512/919/919827.png',
     },
+    {
+      name: 'CSS',
+      img: 'https://cdn-icons-png.flaticon.com/512/919/919826.png',
+    },
+    {
+      name: 'GIT',
+      img: 'https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png',
+    },
+    {
+      name: 'Material UI',
+      img: 'https://material-ui.com/static/logo.png',
+    },
+    {
+      name: 'Cypress',
+      img: 'https://s4-recruiting.cdn.greenhouse.io/external_greenhouse_job_boards/logos/400/113/000/original/Cypress.io_Round_Logo.png?1618514359',
+    },
 
   ],
   blogs: [

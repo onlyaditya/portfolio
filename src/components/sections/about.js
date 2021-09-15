@@ -134,7 +134,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi, I'm Aditya Kumar. I have a deep knowledgeable in MERN Stack and Data Structure and Algorithm.
+              Hi, I'm Aditya Kumar. I have a deep knowledge in MERN Stack and Data Structure and Algorithm.
               I have a passion in web development as well as problem solving.
             </p>
             <p>
@@ -142,7 +142,7 @@ const About = () => {
               looking for my first full-time development role where i can grow and learn as well.
             </p>
             <p>
-              I find a keen interes in making the virtual world beautiful. visual aspects of  web development is very interesting and I
+              I find a keen interest in making the virtual world beautiful. visual aspects of  web development is very interesting and I
               would love the opportunity to grasp more about Web Development.
             </p>
           </div>

@@ -140,6 +140,7 @@ const Jobs = () => {
         {tech.map(item => (
           <div key={item.name} style={{ display: 'inline' }} className="wrapper">
             <img className="img" src={item.img} alt={item.name} />
+            <div style={{ textAlign: 'center', marginTop: '5px' }}>{ item.name}</div>
             <div className="overlay"></div>
           </div>
         ))}
