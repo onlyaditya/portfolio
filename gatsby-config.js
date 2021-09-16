@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Arjun K Prasad',
+    title: 'Aditya Kumar',
     description:
-      'Arjun K Prasad is a software engineer who specializes in building full stack web applications.',
-    siteUrl: 'https://arjun-portfolio.vercel.app', // No trailing slash allowed!
+      'Aditya Kumar is a web developer who specializes in building full stack web applications.',
+    siteUrl: 'https://portfolio-22cmj4du9-onlyaditya-portfolio.vercel.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@arjun1237_kp',
+    twitterUsername: '@adityatherockstar',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'ArjunKPrasad',
-        short_name: 'Arjun',
+        name: 'AdityaKumar',
+        short_name: 'Aditya',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

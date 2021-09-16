@@ -139,11 +139,12 @@ const About = () => {
             </p>
             <p>
               I just graduated from the Full Stack Developer course from Masai School. I am now
-              looking for my first full-time development role where i can grow and learn as well.
+              looking for my first full-time development role where I can grow and learn as well.
+              I find a keen interest in making the virtual world beautiful. I
+              would love the opportunity to grasp more about Web Development.
             </p>
             <p>
-              I find a keen interest in making the virtual world beautiful. visual aspects of  web development is very interesting and I
-              would love the opportunity to grasp more about Web Development.
+               Mob:<strong> 7012423588</strong> Email: <strong>onlyaditya001@gmail.com</strong> 
             </p>
           </div>
         </StyledText>
